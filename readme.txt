@@ -1,2 +1,2 @@
 Git is a tool
-i don't how to use Git
+i don't know how to use Git
